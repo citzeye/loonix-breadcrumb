@@ -14,12 +14,17 @@ Built for **Loonix**, optimized for **Arch Linux**, **Kitty**, and **Zsh**.
 Karena ini adalah bagian dari ekosistem **Loonix**, cara installnya gampang banget. Lo cuma perlu tempel (paste) script ini ke dalem file `.zshrc` lo.
 
 1. Buka `.zshrc` pake `micro`:
+   
    ```bash
    micro ~/.zshrc
    ```
 
    ```
-   # --- Prompt Setup (The Creator Aesthetic) ---
+
+
+2. Paste, lalu save
+```bash
+ # --- Prompt Setup (The Creator Aesthetic) ---
 
 get_breadcrumb() {
 
@@ -54,4 +59,12 @@ _set_cursor() { echo -ne "\e[4 q"; }
 precmd_functions+=(_set_cursor)
 
 _set_cursor
+```
+
+3. jangan lupa refresh config
+
+```bash
+
+source `/.zshrc
+
 ```
