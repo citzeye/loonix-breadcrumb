@@ -72,3 +72,10 @@ source `/.zshrc
 ```
 
 4. DONE !!
+
+
+NOTE:
+Dont Forget to install Kode Mono font & Symbol Nerd font & Twemoji font
+Path Breadcrumbs
+Loonix Colors: Green, White, Purple).
+Auto-Cursor
