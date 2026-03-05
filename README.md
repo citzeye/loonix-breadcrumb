@@ -9,6 +9,10 @@ Built for **Loonix**, optimized for **Arch Linux**, **Kitty**, and **Zsh**.
 ##  Preview
 ` loonix  citz  loonix-wofi `
 
+<p align="center">
+  <img src="SS/loonix-breadcrumb.png" width="800" alt="Loonix Zsh Breadcrumb Preview">
+</p>
+
 ##  Installation
 
 Karena ini adalah bagian dari ekosistem **Loonix**, cara installnya gampang banget. Lo cuma perlu tempel (paste) script ini ke dalem file `.zshrc` lo.
@@ -66,3 +70,5 @@ _set_cursor
 source `/.zshrc
 
 ```
+
+4. DONE !!
