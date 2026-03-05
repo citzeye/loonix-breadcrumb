@@ -19,8 +19,6 @@ Karena ini adalah bagian dari ekosistem **Loonix**, cara installnya gampang bang
    micro ~/.zshrc
    ```
 
-   ```
-
 
 2. Paste, lalu save
 ```bash
